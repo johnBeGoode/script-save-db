@@ -7,4 +7,5 @@ Une fois projet cloné :
 2. Changer les variables "db_username" et "db_password" avec vos propres identifiants
 
 Une fois le script lancé toutes vos bases de données seront enregistrés dans le dossier "db_saves".
+
 Libre à vous de mettre ses nouveaux fichiers sur clé usb, dropbox etc...
