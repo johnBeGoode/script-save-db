@@ -1,0 +1,12 @@
+{
+    "name": "jonat/script-save-db",
+    "description": "Script to save the databases",
+    "require": {
+        "ifsnop/mysqldump-php": "^2.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jonat\\ScriptSaveDb\\": "src/"
+        }
+    }
+}
