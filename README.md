@@ -1,5 +1,5 @@
 # script-save-db
-Permet d'enregistrer toutes vos bases de données grâce à la librairie Ifsnop/Mysqldump
+Permet d'enregistrer toutes vos bases de données grâce à la librairie Ifsnop/Mysqldump (https://packagist.org/packages/ifsnop/mysqldump-php)
 
 Une fois projet cloné :
 
